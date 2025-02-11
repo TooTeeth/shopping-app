@@ -4,7 +4,7 @@ import { Navigate } from "react-router-dom";
 function Checkout() {
   const { isLoggedIn } = useSelector((state) => state.user);
 
-  if (!isLoggedIn) return <Navigate to="/login" state={{ from: "/checlout" }} />;
+  if (!isLoggedIn) return <Navigate to="/login" state={{ from: "/checkout" }} />;
 
   return (
     <div className="container">
