@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "image": "btc.png",
+    "name": "BTC",
+    "price": 97850,
+    "description": "Bitcoin is an innovative payment network and a new kind of money based on peer-to-peer and cryptographic technologies."
+  },
+  {
+    "id": 2,
+    "image": "eth.png",
+    "name": "ETH",
+    "price": 2682,
+    "description": "Ethereum is a decentralized platform that runs smart contracts: applications that run exactly as programmed without any possibility of downtime, censorship, fraud or third party interference."
+  },
+  {
+    "id": 3,
+    "image": "sol.jpg",
+    "name": "SOL",
+    "price": 201,
+    "description": "Founded by former Qualcomm, Intel, and Dropbox engineers in late-2017, Solana is a single-chain, delegated-Proof-of-Stake protocol whose focus is on delivering scalability without sacrificing decentralization or security. The Solana protocol is designed to facilitate decentralized app (DApp) creation. Core to Solana's scaling solution is a decentralized clock titled Proof-of-History (PoH), built to solve the problem of time in distributed networks where there is not a single, trusted, source of time. Due to the innovative hybrid consensus model, Solana has attracted the attention of small traders and institutional traders. An important focus of the Solana Foundation is to make decentralized finance available on a larger scale. Solana is ranked number 7 in the CoinMarketCap ranking as of September 2021."
+  },
+  {
+    "id": 4,
+    "image": "sui.png",
+    "name": "SUI",
+    "price": 3.3,
+    "description": "Sui is a first-of-its-kind Layer 1 blockchain and smart contract platform designed from the bottom up to make digital asset ownership fast, private, secure, and accessible to everyone. Its object-centric model, based on the Move programming language, enables parallel execution, sub-second finality, and rich on-chain assets. With horizontally scalable processing and storage, Sui supports a wide range of applications with unrivaled speed at a low cost. Sui is a step-function advancement in blockchain and a platform on which creators and developers can build amazing, user-friendly experiences."
+  }
+]
